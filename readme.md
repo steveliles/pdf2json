@@ -1,3 +1,6 @@
+Note: Forked in order to merge some PR's that the original author doesn't seem inclined to merge, and to improve image handling and RTL support.
+
+
 # pdf2json
 
 pdf2json is a [node.js](http://nodejs.org/) module that parses and converts PDF from binary to json format, it's built with [pdf.js](https://github.com/mozilla/pdf.js/) and extends it with interactive form elements and text content parsing outside browser.
