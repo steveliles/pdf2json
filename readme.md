@@ -1,5 +1,9 @@
-Note: Forked in order to merge some PR's that the original author doesn't seem inclined to merge, and to improve image handling and RTL support.
+Note: Forked this awesome project because I need to very quickly:
 
+1. merge some PR's that have been waiting a looong time on the original repo 
+2. improve image handling over and above the (unmerged) PR's that add basic support to the original repo
+3. add RTL support (I need to import Arabic PDF's)
+4. Dramatically reduce the memory consumption when parsing (3GB Heap -> 128GB Heap for ~300 page doc with images)
 
 # pdf2json
 
